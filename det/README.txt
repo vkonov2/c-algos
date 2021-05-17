@@ -1,0 +1,1 @@
+The program allows you to calculate the determinant of the matrix

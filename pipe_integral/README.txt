@@ -1,0 +1,1 @@
+The program allows you to calculate integrals with parallelization (pipes are used)
